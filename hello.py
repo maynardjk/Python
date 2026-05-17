@@ -1,2 +1,4 @@
-message = "Hello, World!"
-print(message)
+message = "Hello, world!"
+print(message.title())
+print(message.upper())
+print(message.lower())
